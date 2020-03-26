@@ -12,6 +12,6 @@ Templates contenidos en este repositorio:
 - Imagen de portada de grupo
 - Imagen de video post
 
-El artículo completo se puede encontrar en Medium como (Guía de tamaños y dimensiones para Facebook)[https://medium.com/@jesus.alvb/gu%C3%ADa-de-tama%C3%B1os-y-dimensiones-para-facebook-8cbdf541e5bc]
+El artículo completo se puede encontrar en Medium como [Guía de tamaños y dimensiones para Facebook](https://medium.com/@jesus.alvb/gu%C3%ADa-de-tama%C3%B1os-y-dimensiones-para-facebook-8cbdf541e5bc)
 
 
